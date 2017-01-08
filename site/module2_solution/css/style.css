@@ -23,9 +23,8 @@ div {
 section {
   border: 1px solid black;
   padding: 10px;
-  height: 150px;
+  height: 160px;
   background-color: #DDDDDD;
-  overflow: scroll;
 
 }
 
