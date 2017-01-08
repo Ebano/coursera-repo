@@ -25,6 +25,7 @@ section {
   padding: 10px;
   height: 160px;
   background-color: #DDDDDD;
+  overflow: auto;
 
 }
 
